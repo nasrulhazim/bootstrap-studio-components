@@ -18,3 +18,13 @@
 
 ## Frosty Background
 ![Frosty Background](https://raw.githubusercontent.com/nasrulhazim/bootstrap-studio-components/master/Frosty%20Background/frosty-background.png)
+
+## Under Maintenance
+### Demo can be found [here](http://www.nasrulhazim.com/demo/under-maintenance/)
+![Under Maintenance(XS)](https://raw.githubusercontent.com/nasrulhazim/bootstrap-studio-components/master/Under%20Maintenance/under-maintenance-xs.png)
+
+![Under Maintenance(SM)](https://raw.githubusercontent.com/nasrulhazim/bootstrap-studio-components/master/Under%20Maintenance/under-maintenance-sm.png)
+
+![Under Maintenance(MD)](https://raw.githubusercontent.com/nasrulhazim/bootstrap-studio-components/master/Under%20Maintenance/under-maintenance-md.png)
+
+![Under Maintenance(LG)](https://raw.githubusercontent.com/nasrulhazim/bootstrap-studio-components/master/Under%20Maintenance/under-maintenance-lg.png)
